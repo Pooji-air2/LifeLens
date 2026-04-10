@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #667eea, #764ba2);
+}
+
+/* Card styling */
+.card {
+    border: none;
+    border-radius: 20px;
+}
+
+/* Title */
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+/* Button */
+button {
+    border-radius: 10px !important;
+    padding: 10px;
+}
+
+/* Inputs */
+input, select {
+    border-radius: 10px !important;
+}
+
+/* Score styling */
+.score {
+    font-size: 40px;
+    font-weight: bold;
+    color: #4a00e0;
+}
